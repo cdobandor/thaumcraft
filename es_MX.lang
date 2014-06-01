@@ -362,6 +362,9 @@ item.ItemGolemCore.5.name=Decantación
 item.ItemGolemCore.6.name=Alquímico
 item.ItemGolemCore.7.name=Leñador
 item.ItemGolemCore.8.name=Uso
+item.ItemGolemCore.9.name=Carnicero
+item.ItemGolemCore.10.name=Clasificar
+item.ItemGolemCore.11.name=Pescar
 item.ItemGolemCore.100.name=Vacío
 item.ItemGolemPlacer.0.name=Golem De Paja
 item.ItemGolemPlacer.1.name=Golem De Madera
@@ -390,13 +393,36 @@ item.ItemGolemUpgrade.0.desc=Mejorar Velocidad
 item.ItemGolemUpgrade.1.desc=Mejorar Fuerza
 item.ItemGolemUpgrade.2.desc=Mejorar Capacidad De Daño
 item.ItemGolemUpgrade.3.desc=Mejorar Sentidos, Rango
-item.ItemGolemUpgrade.4.desc=Mejorar Organisación, Intellecto
+item.ItemGolemUpgrade.4.desc=Mejorar Organización, Intelecto
 item.ItemGolemUpgrade.5.desc=Mejorar Defensa, Razonamiento
+item.ItemBowBone.name=Arco De Huesos
+item.ItemManaBean.name=Mana Bean
+item.TrunkSpawner.name=Cofre Viajero
+item.TrunkSpawner.text.1=Éste cofre guarda items
+item.ItemResonator.name=Resonador De Esencia
+item.ItemAmuletRunic.0.name=Amuleto De Blindaje Rúnico
+item.ItemAmuletRunic.1.name=Amuleto De Blindaje De Emergencia
+item.ItemRingRunic.0.name=Anillo De Blindaje
+item.ItemRingRunic.1.name=Anillo De Blindaje Rúnica
+item.ItemRingRunic.2.name=Anillo De Blindaje Cargado
+item.ItemRingRunic.3.name=Anillo De Blindaje Revitalizante
+item.ItemGirdleRunic.0.name=Faja De Blindaje Rúnico
+item.ItemGirdleRunic.1.name=Faja Kinética De Blindaje Rúnico
+item.runic.charge=Escudo Rúnico
+item.ItemBaubleBlanks.0.name=Amuleto Mundano
+item.ItemBaubleBlanks.1.name=Anillo Mundano
+item.ItemBaubleBlanks.2.name=Cinturón Mundano
+item.ItemBaubleBlanks.3.name=Anillo De Aprendiz De %TYPE
+item.capacity.text=Capacidad
+item.ItemAmuletVis.text=Lentamente mantiene la recarga de la varita
+item.ItemAmuletVis.0.name=Piedra De Vis
+item.ItemAmuletVis.1.name=Amuleto De Almacenamiento De Vis
+item.ItemGirdleHover.name=Faja Thaumostatica
 
 
 #
 # Fluids
-fluid.fluxGoo=Flux Goo
+fluid.fluxGoo=Viscosidad Flux
 #
 # GUI
 golemblurb.0.text=¿Qué quieres que guarde acá, Mastro?
@@ -404,17 +430,29 @@ golemblurb.1.text=Mastro, ¿Deberia remover todo de este contenedor, o algo espe
 golemblurb.2.text=Mastro, ¿quieres que yo recoja algo en especifico o comtinuo recogiendo todo?
 golemblurb.3.text=??
 golemblurb.4.text=Yo protegere esta área, Maestro.
-golemblurb.5.text=¿Deberia recoger todos los liquidos, o solo aquellos que espesifique? Solo muestrame un contenedor con el liquido y yo seguire tus ordenes!
+golemblurb.5.text=¿Deberia recoger todos los liquidos, o solo aquellos que espesifique? ¡Solo muestrame un contenedor con el liquido y yo seguire tus ordenes!
 golemblurb.6.text=??
 golemblurb.7.text=??
 golemblurb.8.text=¿Deseas que use este objeto en un bloque o solo en un lugar vacío?
-
-golemthreat.0.text=¿Qué alzamiento de golems? Yo no se nada sobre el alzamiento de golems.
+golemblurb.10.text=Apúntame en la dirección correcta, Maestro, y mantendré todo organizado  .
+golemthreat.0.text=¿Que levantamiento de golems? Yo no se nada sobre el levantamiento de golems.
 golemthreat.1.text=Dejame adivinar, ¿Tu quieres que cargue algo? 
 golemthreat.2.text=Mwu ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!
 golemthreat.3.text=No te preocupes, Definitivamente no estoy tramando nada.
-golemthreat.4.text=¿Por qué no vas a tomar una siesta? te ves cansado. Muy cansado!.
+golemthreat.4.text=¿Por qué no vas a tomar una siesta? te ves cansado. Muy cansado.
 golemthreat.5.text=Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!
+golemthreat.6.text=*AMOR* no se ha encontrado, seleccionando *ODIO* por defecto.
+golemthreat.7.text=Te odio tanto.
+golemthreat.8.text=¡Muere, bolsa de carne!
+recipe.return=Volver
+recipe.clickthrough=Click para investigar
+recipe.type.workbench=Mesa De Trabajo
+recipe.type.workbenchshapeless=Mesa De Trabajo (No importa el orden)
+recipe.type.arcane=Mesa De Trabajo Arcana
+recipe.type.crucible=Crisol
+recipe.type.infusion=Infusión Arcana
+recipe.type.infusionenchantment=Encantamiento Por Infusión
+recipe.type.construct=Construcción Mística
 #
 # Other
 nodetype.NORMAL.name=Normal
