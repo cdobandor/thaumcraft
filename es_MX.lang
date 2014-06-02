@@ -199,7 +199,7 @@ tile.blockArcaneFurnace.name=Horno Infernal
 #
 # Items
 item.GolemBell.name=Campana De Golemancia
-item.HoverHarness.name=Arnés Taumostatico
+item.HoverHarness.name=Arnés Thaumostatico
 item.Focus.cost1=Vis por cast
 item.Focus.cost2=Vis por tick
 item.FocusPouch.name=Maleta De Focos
@@ -258,11 +258,11 @@ item.Wand.iron.cap=Tapada Con Hierro
 item.Wand.gold.cap=Tapada Con Oro
 item.Wand.copper.cap=Tapada Con Cobre
 item.Wand.silver.cap=Tapada Con Plata
-item.Wand.thaumium.cap=Tapada Con Taumio
+item.Wand.thaumium.cap=Tapada Con Thaumio
 #
 item.ItemResource.0.name=Alumentum
 item.ItemResource.1.name=Nitor
-item.ItemResource.2.name=Lingote De Taumio
+item.ItemResource.2.name=Lingote De Thaumio
 item.ItemResource.3.name=Mercurio
 item.ItemResource.4.name=Cera Mágica
 item.ItemResource.5.name=Cerebro De Zombie
@@ -295,7 +295,7 @@ item.ItemNugget.2.name=Pepita De Estaño
 item.ItemNugget.3.name=Pepita De Plata
 item.ItemNugget.4.name=Pepita De Plomo
 item.ItemNugget.5.name=Pepita De Mercurio
-item.ItemNugget.6.name=Pepita De Taumio
+item.ItemNugget.6.name=Pepita De Thaumio
 item.ItemNugget.16.name=Comprimido De Hierro
 item.ItemNugget.17.name=Comprimido De Cobre
 item.ItemNugget.18.name=Comprimido De Estaño
@@ -317,13 +317,13 @@ item.ItemPickaxeElemental.name=Pico Del Núcleo
 item.ItemAxeElemental.name=Hacha Del Rio
 item.ItemHoeElemental.name=Azadón Del Crecimiento
 item.ItemSwordElemental.name=Espada De Céfiro
-item.ItemChestplateRobe.name=Toga Del Taumaturgo
-item.ItemLeggingsRobe.name=Mallas Del Taumaturgo
-item.ItemBootsRobe.name=Botas Del Taumaturgo
+item.ItemChestplateRobe.name=Toga Del Thaumaturgo
+item.ItemLeggingsRobe.name=Mallas Del Thaumaturgo
+item.ItemBootsRobe.name=Botas Del Thaumaturgo
 item.ArcaneDoorKey.0.name=Llave De Hierro Arcana
 item.ArcaneDoorKey.1.name=Llave De Oro Arcana
 item.HandMirror.name=Espejo De Mano Magico
-item.ThaumicCamera.name=Iconógrafo Táumico
+item.ThaumicCamera.name=Iconógrafo Thaumico
 item.PhotoPlate.0.name=Placa Iconográfica
 item.PhotoPlate.1.name=Placa Iconográfica Expuesta
 item.ItemInkwell.name=Herramientas De Escritor
@@ -331,19 +331,19 @@ item.ItemPortableHole.name=Agujero Portable
 item.ItemThaumometer.name=Thaumometro
 item.ItemThaumonomicon.name=Thaumonomicon
 item.ItemGoggles.name=Gafas De La Revelación
-item.ItemHelmetThaumium.name=Casco De Taumio
+item.ItemHelmetThaumium.name=Casco De Thaumio
 item.ItemChestplateThaumium.name=Peto De Thumio
 item.ItemLeggingsThaumium.name=Pantalones De Thumio
-item.ItemBootsThaumium.name=Botas De Taumio
+item.ItemBootsThaumium.name=Botas De Thaumio
 item.ItemHelmetRunic.name=Runas De Proteccion Para La Cabeza
 item.ItemChestplateRunic.name=Runas De Proteccion Para El Pecho 
 item.ItemLeggingsRunic.name=Runas De Proteccion Para Las Piernas
 item.ItemBootsRunic.name=Runas De Proteccion Para Los Pies 
-item.ItemShovelThaumium.name=Pala De Taumio
-item.ItemAxeThaumium.name=Hacha De Taumio
-item.ItemSwordThaumium.name=Espada De Taumio
-item.ItemPickThaumium.name=Pico De Taumio
-item.ItemHoeThaumium.name=Azada De Taumio
+item.ItemShovelThaumium.name=Pala De Thaumio
+item.ItemAxeThaumium.name=Hacha De Thaumio
+item.ItemSwordThaumium.name=Espada De Thaumio
+item.ItemPickThaumium.name=Pico De Thaumio
+item.ItemHoeThaumium.name=Azada De Thaumio
 item.researchnotes.name=Notas De Investigación
 item.researchnotes.unknown=Conocimiento Desconocido
 item.researchnotes.failed.1=Falló, coloquelo en la mesa de trabajo
@@ -660,10 +660,10 @@ tc.research_category.GOLEMANCY=Golemancia
 # Research entries
 tc.research_name.RESEARCH=Investigación
 tc.research_text.RESEARCH=¿Comó descubres cosas?
-tc.research_page.RESEARCH.1=Antes de que puedas construir la mayoría de elementos y bloques taumaturgicos, primero necesitas descubrir como hacerlo. Hay varios pasos en el proceso:<BR>(1) Explorando el mundo y examinando bloques, elementos y criaturas con el §5thaumometro§0<BR><BR>(2) Tomando los puntos de investigación que has reunido del primer paso y expandiendo tus conocimientos en aspectos con la §5mesa de investigación.§0<BR><BR>(3) Utilizando los aspectos que conoces, descubriendo conocimiento práctico y recetas que encontraras en la §5tabla de investigación§0.<LINE>
+tc.research_page.RESEARCH.1=Antes de que puedas construir la mayoría de elementos y bloques thaumaturgicos, primero necesitas descubrir como hacerlo. Hay varios pasos en el proceso:<BR>(1) Explorando el mundo y examinando bloques, elementos y criaturas con el §5thaumometro§0<BR><BR>(2) Tomando los puntos de investigación que has reunido del primer paso y expandiendo tus conocimientos en aspectos con la §5mesa de investigación.§0<BR><BR>(3) Utilizando los aspectos que conoces, descubriendo conocimiento práctico y recetas que encontraras en la §5tabla de investigación§0.<LINE>
 tc.research_page.RESEARCH.2=§l      §n(1) Exploración§r<BR><BR>No puedes realizar investigación sin puntos de investigación, y la mejor manera de ganar puntos de investigación es explorando y examinando objetos en el mundo.<BR> Lo primero que vas a necesitar es construir un §5Thaumometro§0 (Ver la siguiente página). Apuntando el §5Thaumometro§0 a objetos o criaturas y manteniendo el boton derecho del ratón empezarás a examinarlos. El proceso no toma mucho tiempo, pero tu velocidad de movimiento se reduce mientras lo haces.<BR>Una vez completo, el §5Thaumometro§0 mostrará que aspectos contiene el objeto. En la parte inferior derecha de la pantalla verás también un resumen de los aspectos y los puntos de investigación que has descubierto.
 tc.research_page.RESEARCH.3=<IMG>thaumcraft:textures/misc/research1.png:0:0:255:208:.5</IMG>Inicialmente no podras examinar todos los objetos, ya que no has descubierto los aspectos que lo componen. Por ejemplo, un objeto que contenga el aspecto lux solo puede ser examinado si anteriormente descubriste este aspecto lux, o conocer
-tc.research_page.RESEARCH.4= los dos aspectos que se combinan para crearlo.<BR>.La primera vez que descubras un aspecto examinando algo, ganas el doble de puntos de investigación que obtendrías normalmente.<BR>Los objetos y criaturas usualmente solo se pueden examinar una vez.<BR>Mientras exploras el mundo y examinas cosas, sería buena idea mantener contigo un set de §5Herramientas de escritura§0 lleno de tinta y algo de §5papel§0. Ocasionalmente, examinar algo revelará pistas adicionales e ideas de la investigación taumatológica, que por lo general en un set de notas del que puedes investigar en el futuro.
+tc.research_page.RESEARCH.4= los dos aspectos que se combinan para crearlo.<BR>.La primera vez que descubras un aspecto examinando algo, ganas el doble de puntos de investigación que obtendrías normalmente.<BR>Los objetos y criaturas usualmente solo se pueden examinar una vez.<BR>Mientras exploras el mundo y examinas cosas, sería buena idea mantener contigo un set de §5Herramientas de escritura§0 lleno de tinta y algo de §5papel§0. Ocasionalmente, examinar algo revelará pistas adicionales e ideas de la investigación thaumatológica, que por lo general en un set de notas del que puedes investigar en el futuro.
 tc.research_page.RESEARCH.5=§l   §n(2) Combinando aspectos§r<BR><BR>Una vez hayas recolectado algunos puntos de investigación, puedes intentar combinarlos para obtener aspectos de compuestos en una mesa de investigación.<BR> Para crear una mesa de investigación simplemente coloca dos §5mesas§0 una junto a la otra y dales click con un set de herramientas de escritura.  La receta para para las mesas esta listada bajo la categoría de investigación §5Artiface§0.<BR> Si abres el inventario de la mesa de investigación, veras una interfaz como se ve a la derecha.<BR> Las herramientas de escritura que usaste para crear la mesa estarán en la casilla §l1§r. También querras poner papel en la casilla §l2§r, pues el papel no
 tc.research_page.RESEARCH.6=es necesario en esta etapa de la investigación.<IMG>thaumcraft:textures/misc/research2.png:0:0:128:83:1</IMG>Deberías ver todos los aspectos primarios (y quiza algunos aspectos de compuestos) listados en el área §l3§r con cantidades variables unidas a ellos. Cuando entres en un mundo por primera vez, a cada jugador se le asigna un conjunto de aspectos primarios para iniciar.<BR> Si ya has hecho algo de investigación con
 tc.research_page.RESEARCH.7=el Thaumometro entonces tendrás un considerable número de aspectos primarios y de compuestoslistados aquí.<LINE>Puedes empezar a crear aspectos más complejos, solo dando click a los que quieres combinar. Los aspectos seleccionados aparecerán en la casilla §l4§r y cuando tengas dos seleccionados, presionando el botón morado marcado §l5§r se trataran de combinar. Si se logran combinar se debería ver que conseguiste en la parte inferior derecha y debería aparecer en el espacio §l3§r.<BR>Los aspectos usados durante la combinación se consumiran aún si esta no da resulado.
@@ -694,7 +694,7 @@ tc.research_page.NODES.3=desaparecer o dañar la integridad del nodo.<BR>Es posi
 tc.research_name.ORE=Menas
 tc.research_text.ORE=Escava profundo
 tc.research_page.ORE.1=§l       §nPiedra infundida§r<BR><IMG>thaumcraft:textures/misc/research4.png:0:0:128:128:.6</IMG><BR>De vez en cuando hay tanta energía primaria en un aura que se transformara en unra roca solida conocida como piedra infundidaid. La magi forma cristales dentro de la piedra que pueden ser recogidos.
-tc.research_page.ORE.2=Estos critales tienen varias propiedades elementales y tienen mucho usos en la taumaturgia.<BR>Existen seis tipos de piedra infundida, cada uno es un aspecto primario.<BR><BR><IMG>thaumcraft:textures/misc/research3.png:0:104:96:16:1</IMG><BR>Pueden ser combinados para crear racimos de cristal. Racimos de cristal no tienen propiedades especiales más allá de añadir un toque de clase a cualquier hogar. Romper un racimo de cristal hará que se divida en sus cristales básicos.
+tc.research_page.ORE.2=Estos critales tienen varias propiedades elementales y tienen mucho usos en la thaumaturgia.<BR>Existen seis tipos de piedra infundida, cada uno es un aspecto primario.<BR><BR><IMG>thaumcraft:textures/misc/research3.png:0:104:96:16:1</IMG><BR>Pueden ser combinados para crear racimos de cristal. Racimos de cristal no tienen propiedades especiales más allá de añadir un toque de clase a cualquier hogar. Romper un racimo de cristal hará que se divida en sus cristales básicos.
 tc.research_page.ORE.3=§l         §nCinnabar§r<BR><IMG>thaumcraft:textures/misc/research3.png:128:128:128:128:.6</IMG><BR>Este mineral rojizo se encuentra bajo tierra y cuando se funde produce quicksilver.<BR><BR><IMG>thaumcraft:textures/items/quicksilver.png:0:0:255:255:0.0625</IMG>
 tc.research_page.ORE.4=§l           §nAmbar§r<BR><IMG>thaumcraft:textures/misc/research3.png:0:128:128:128:.6</IMG><BR>Este mineral se encuentra cerca de la superficie y cuando extrae deja caer gotas de ambar.<BR><BR><IMG>thaumcraft:textures/items/amber.png:0:0:255:255:0.0625</IMG>
 #
@@ -715,21 +715,24 @@ tc.research_name.RESEARCHER2=Maestria investigando
 tc.research_text.RESEARCHER2=El poder es el conocimiento
 tc.research_page.RESEARCHER2.1=Te has vuelto mucho mas eficiente al investigar.<BR>Cada vez que extraigas un aspecto que has colocado en un hexágono, habrá una probabilidad del 50% de recuperar el punto de la investigación.<BR>Además, habrá una probabilidad del 10% que al colocar un aspecto no te costará ningún punto de investigación para hacerlo.<BR>Finalmente serás capaz de combinar aspectos en la mesa de investigación dando Shift-Click Izquierdo en el aspecto que desea crear. Si tiene suficientes aspectos, se combinarán automáticamente para crear el aspecto clickeado.
 #
+tc.research_name.RESEARCHDUPE=Duplicar investigaciones
+tc.research_text.RESEARCHDUPE=Compartir es cuidar
+tc.research_page.RESEARCHDUPE.1=Has descubierto una manera de copiar notas de investigación completadas.<BR>Cuando completas una investigación o colocas una investigación completa en la mesa de investigación verás el ícono de una estrella. Si le das click se creará una copia de ésta investigación siempre y cuando tengas papel y tinta, además de tener los aspectos válidos suficientes.<BR>Cuantas más copias se crean de esa investigación, el copiado llegará a ser más costosa.
+#
 tc.research_name.DECONSTRUCTOR=Mesa de Deconstrucción
 tc.research_text.DECONSTRUCTOR=Solo tomar una buena mirada no es suficiente
-tc.research_page.DECONSTRUCTOR.1=Llega un momento en la carrera de cualquier taumaturgo y es que no está en condiciones de avanzar en la investigación debido a su falta de conocimiento.<BR>Un recurso posible es la mesa de deconstrucción. La mesa permite descomponer objetos en sus partes más simples para que se pueden examinar. Hay límites sin embargo - la mesa descompone los materiales hasta sus aspectos primarios. Durante este proceso mucho conocimiento se pierde y a lo mejor el taumaturgo puede esperar una simple pieza de conocimiento primario.<BR>Por ejemplo la piedra labrada (saxum y 
-tc.research_page.DECONSTRUCTOR.2=perditio) se simplificará en 2 terra y 1 perditio, solo uno de ellos podra ser descubierto.<BR>También es bastante lento y entre menos objetos y aspectos tengas, seran menores las posibilidades de descubrir algo.
+tc.research_page.DECONSTRUCTOR.1=Llega un momento en la carrera de cualquier thaumaturgo y es que no está en condiciones de avanzar en la investigación debido a su falta de conocimiento.<BR>Un recurso posible es la mesa de deconstrucción. La mesa permite descomponer objetos en sus partes más simples para que se pueden examinar. Hay límites sin embargo - la mesa descompone los materiales hasta sus aspectos primarios. Durante este proceso mucho conocimiento se pierde y a lo mejor el thaumaturgo puede esperar una simple pieza de conocimiento primario.<BR>Por ejemplo la piedra labrada (Saxum y 
+tc.research_page.DECONSTRUCTOR.2=Perditio) se simplificará en 2 Terra y 1 Perditio, solo uno de ellos tendrá probabilidad de ser descubierto.<BR>También es bastante lento y entre menos objetos y aspectos tengas, seran menores las posibilidades de descubrir algo.
 #
 tc.research_name.BASICTHAUMATURGY=Haciendo varitas
 tc.research_text.BASICTHAUMATURGY=Tu primera herramienta
-tc.research_page.BASICTHAUMATURGY.1=La barita es tu herramienta mas básica, pero tambien es tu herramienta mas importante. Es lo que usas para crear objetos, activar bloques como el crisol, e incontables tareas más.<BR>La barita mas básica guarda un cantidad limitada de energia mágica (llamada vis) que se utiliza para llevar abalo las tareas. Para cargar de energia una varita, tendras que drenar la energia de un nodo de aura y para hacer esto tendras que mantener el click derecho sobre en nodo.<BR> Mientras drenas la energia veras como el indicador de la parte superior izquierda se llenay te muestra cuanta vis estas guardando.
-tc.research_page.BASICTHAUMATURGY.2=Manteniendo shift se mostrara exactamente en numeros la cantidad de vis almacenada y mostrará los posibles descuentos que hara cada vez que uses mágia.<BR>Las varitas siempre estan construidas a partir de la combinación de varas y  dos tapas. Progresando en tus estudios seguramente encontraras diferentes materiales para contruir tus varitas. Solo la varita más basica se puede hacer en la mesa de trabajo. El resto de varitas requieren la §5mesa de trabajo arcana§0  y te costará vis para poder crearla.<BR>La varita básica esta hecha de materiales mundanos como la madera y el hierro, los cuales son materiales malos para la mágia.
+tc.research_page.BASICTHAUMATURGY.1=La barita es tu herramienta mas básica, pero tambien es tu herramienta mas importante. Es lo que usas para crear objetos, activar bloques como el crisol, e incontables tareas más.<BR>La barita mas básica guarda un cantidad limitada de energia mágica (llamada vis) que se utiliza para llevar a cabo las tareas. Para cargar de energia una varita tendras que drenar la energia de un nodo de aura, para hacer esto tendras que mantener el click derecho sobre en nodo.<BR> Mientras drenas la energia veras como el indicador de la parte superior izquierda se llenay te muestra cuanta vis estas guardando.
+tc.research_page.BASICTHAUMATURGY.2=Manteniendo Shift se mostrara exactamente en numeros la cantidad de vis almacenada y mostrará los posibles descuentos que hara cada vez que uses mágia.<BR>Las varitas siempre estan construidas a partir de la combinación de varas y  dos tapas. Progresando en tus estudios seguramente encontraras diferentes materiales para contruir varitas cada vez mas poderosas. Solo la varita más basica se puede hacer en la mesa de trabajo. El resto de varitas requieren la §5mesa de trabajo arcana§0  y te costará vis para poder crearla.<BR>La varita básica esta hecha de materiales mundanos como la madera y el hierro, los cuales son materiales pobres para la mágia.
 #
 tc.research_name.GRATE=Rejilla
 tc.research_text.GRATE=Deja entrar las buenas cosas
-tc.research_page.GRATE.1=La rejilla te permite abrirla o cerrarla con tus manos, o con una señal de piedra roja. Si esta abierta, cualuier objeto tiardo caerá atravez de ella. 
+tc.research_page.GRATE.1=La rejilla te permite abrirla o cerrarla con tus manos, o con una señal de piedra roja. Si esta abierta, cualuier objeto tiardo caerá a traves de ella. <BR>Los objetos también pueden ser conducidos a la parte superior de una rejilla usando una tolva u otro medio similar, y si se abre la rejilla los objetos saldrán por debajo de ésta.
 #
-
 tc.research_name.NODETAPPER1=Conocimiento de nodos avanzado
 tc.research_text.NODETAPPER1=Tomalo todo
 tc.research_page.NODETAPPER1.1=Usualmente el porceso de extraer vis de un nodo con una varita es algo lento... pero ya no.<BR>Has descubierto un forma más eficiente de aprovechar los nodos, el resultado es que has doblado la velocidad a la que el vis es drenado.
@@ -740,19 +743,19 @@ tc.research_page.NODETAPPER2.1=Has agregado nuevas mejoras a los metodos usados 
 #
 tc.research_name.NODEPRESERVE=Preservando los nodos
 tc.research_text.NODEPRESERVE=Salvando algunos para despues
-tc.research_page.NODEPRESERVE=Haora tienes un mejor control sobre la cantidad de vis que drenas de los nodos. Siempre dejarás al monos uno de vis por cada aspecto en el nodo, a menos de que estes agachado.<BR>Ten cuidado, este nivel de control no es posible cuando se utilizan varitas elaboradas a partir de madera normal y de hierro.
+tc.research_page.NODEPRESERVE=Ahora tienes un mejor control sobre la cantidad de vis que drenas de los nodos. Siempre dejarás al monos uno de vis por cada aspecto en el nodo, a menos de que estes agachado.<BR>Sé prevenido, este nivel de control no es posible cuando se utilizan varitas elaboradas a partir de madera normal y de hierro.
 #
 tc.research_name.THAUMOMETER=Thaumometro
 tc.research_text.THAUMOMETER=Midiendo la mágia
-tc.research_page.THAUMOMETER.1=Este Thaumometro es una de las herramientas mas útiles e importanets en el arsenal de un thaumaturgico, despues de la varita.<BR>Primero te permite escanear objetos, creaturas o fenomenos misticos y determinar su esencia mágica. Simplemente necesitas mantener el boton derecho del ratón y esperar.<BR>En segundo lugar hace mas facil descubrir nodos, porque los deja clara mente visible si los ves a traves de la lente del thaumometro - incluso a traves de objetos solidos! 
+tc.research_page.THAUMOMETER.1=Este Thaumometro es una de las herramientas mas útiles e importanets en el arsenal de un thaumaturgico, despues de la varita.<BR>Primero te permite escanear objetos, creaturas o fenomenos misticos y determinar su esencia mágica. Simplemente necesitas mantener el boton derecho del ratón y esperar.<BR>En segundo lugar hace mas facil descubrir nodos, porque los deja claramente visible si los ves a traves de la lente del thaumometro, ¡Incluso a traves de objetos solidos! 
 #
 tc.research_name.GOGGLES=Gafas de la revelación
 tc.research_text.GOGGLES=Viendo lo invisible
-tc.research_page.GOGGLES.1=Construyendo sobre las bases del Thaumometro, Has comenzado a refinar su habilidad de detectar magia<BR>Este conjunto de misticas lentes haran mucho mas sencillo encontrar nodos de aura, junto con todo tipo de cosas ocultas.<BR>Son una parte importante del arsenal para un thaumaturgico.
+tc.research_page.GOGGLES.1=Construyendo sobre las bases del Thaumometro, has comenzado a refinar su habilidad de detectar magia en algo mas... revelador.<BR>Este conjunto de misticas lentes haran mucho mas sencillo encontrar nodos de aura, junto con todo tipo de cosas ocultas.<BR>Son una parte importante del arsenal para un thaumaturgico.
 #
-tc.research_name.THAUMIUM=Taumio
-tc.research_text.THAUMIUM=Un metal mágico
-tc.research_page.THAUMIUM.1=El taumio es el resultado de infundir energia mágica a los metales básicos. El resultado es un metal más duro que el hiero con la habilidad de aceptar encantamiento que el hierro no puede.<BR>Un metal como este tiene muchas aplicaciones en la creación de aparatos magicos más avanzados.<BR>Tambien se puede usar para crear herramientas, armas y armaduras en la mesa de trabajo, usando las recetas normales.
+tc.research_name.THAUMIUM=Metalurgia mágica
+tc.research_text.THAUMIUM=Cuando los metales conocen la magia
+tc.research_page.THAUMIUM.1=Los metales han demostrado ser muy fácil de manipular por medio de principios thaumatúrgico. Tus primeros descubrimientos te han conducido al descubrimiento del Thaumio.<BR>El Thaumio es el resultado de infundir energia mágica a los metales básicos. El resultado es un metal más duro que el hiero con la habilidad de aceptar encantamiento que el hierro no puede.<BR>Un metal como este tiene muchas aplicaciones en la creación de aparatos magicos más avanzados.<BR>Tambien se puede usar para crear herramientas, armas y armaduras en la mesa de trabajo, usando las recetas normales.
 #
 tc.research_name.NITOR=Nitor
 tc.research_text.NITOR=Llama mística
@@ -764,7 +767,7 @@ tc.research_page.ALUMENTUM.1=Esta sustancia vibra con energía ardiente y está 
 #
 tc.research_name.HUNGRYCHEST=Cofre hambriento
 tc.research_text.HUNGRYCHEST=Un cofre que no espera para abrirse
-tc.research_page.HUNGRYCHEST.1=El cofre hambriento es capaz de recoger objetos sueltos cerca de el.
+tc.research_page.HUNGRYCHEST.1=El cofre hambriento es capaz de recoger objetos si éstos caen directamente a el.
 #
 tc.research_name.CAP_gold=Tapa de oro
 tc.research_text.CAP_gold=Tapando las cosas con estilo
@@ -772,18 +775,18 @@ tc.research_page.CAP_gold.1=El oro es un material capaz de enfocar la energia me
 #
 tc.research_name.CAP_thaumium=Tapa de thaumio
 tc.research_text.CAP_thaumium=Tapas mágicas
-tc.research_page.CAP_thaumium.1=El Thaumio es conocido por su habilidad para guardar y absorver mágia, usarlo para crear una tapa de varita es la elección más lógica. Es muy eficiente enfocando todos los tipos de vis.
+tc.research_page.CAP_thaumium.1=El Thaumio es conocido por su habilidad para guardar y absorver mágia, usarlo para crear una tapa de varita es la elección más lógica. Es muy eficiente enfocando todos los tipos de vis.<BR>Craftear éstas tapas en una mesa de trabajo arcana no es suficiente - Éstos necesitan ser infundidos con energía mágica adicional para que se puedan utilizar.
 #
 tc.research_name.CAP_silver=Tapa de plata
 tc.research_text.CAP_silver=Tapando las cosas con un poco menos de estilo
-tc.research_page.CAP_silver.1=La plata tiene propiedades similares a las del oro cuando se usa como tapa, pero es un poco mas eficiente canalizando los cuatro elementos primarios (fuego, tierra, aire y agua).
+tc.research_page.CAP_silver.1=La plata tiene propiedades similares a las del oro cuando se usa como tapa, pero es un poco mas eficiente canalizando los cuatro elementos primarios (fuego, tierra, aire y agua).<BR>Caftear éstas tapas en una mesa de trabajo arcana no es suficiente - Éstos necesitan ser infundidos con energía mágica adicional para que se puedan utilizar.
 #
 tc.research_name.CAP_copper=Tapa de cobre
 tc.research_text.CAP_copper=Cuando las tapas de hierro solo no sirven
 tc.research_page.CAP_copper.1=El cobre tiene propiedades similares a las del hierro cuando se usa como tapa, pero es tan eficiente como el oro cuando se usa para canalizar vis de Orden o de Entropía.
 #
 tc.research_name.ROD_greatwood=Vara de Greatwood
-tc.research_text.ROD_greatwood=Almacén de energia mágica
+tc.research_text.ROD_greatwood=Depósito de energía mágica
 tc.research_page.ROD_greatwood.1=Tallada de los tablones de greatwood, esta vara tiene el potencial de guardar el doble de vis que la madera mundana, siendo capaz de guardar hasta 50 de vis por cada tipo.
 #
 tc.research_name.ROD_silverwood=Vara de Silverwood
@@ -903,7 +906,7 @@ tc.research_page.BOOTSTRAVELLER.1=Este par de botas encantadas rellenas de mági
 #
 tc.research_name.PHIAL=Tubo de vidrio
 tc.research_text.PHIAL=Contenedor mistico
-tc.research_page.PHIAL.1=Los tubos de cristal son capaces de guardar todas las formas de liquidos y sustancias, pero el uso más importante, para el taumaturgico, es su habilidad para contener esencias.<BR>Las esencias no son faciles de obtener y debilitan el tubo, lo que impide que sea utilizado mas de una vez. 
+tc.research_page.PHIAL.1=Los tubos de cristal son capaces de guardar todas las formas de liquidos y sustancias, pero el uso más importante, para el thaumaturgico, es su habilidad para contener esencias.<BR>Las esencias no son faciles de obtener y debilitan el tubo, lo que impide que sea utilizado mas de una vez. 
 #
 tc.research_name.TABLE=Mesa
 tc.research_text.TABLE=Algunas requieren montaje
@@ -911,15 +914,15 @@ tc.research_page.TABLE.1=La mesa es mas que un bloque de decoración - tambien s
 #
 tc.research_name.ARCTABLE=Mesa de trabajo arcana
 tc.research_text.ARCTABLE=Creando con mágia
-tc.research_page.ARCTABLE.1=Para crear una mesa de trabajo arcana simplemente es hacer click derecho con una varita a la mesa que has puesto en el mundo. La mesa de trabajo arcana tiene el mismo proposito que la mesa de trabajo normal, con algunas excepciones.<BR>Aparte de las recetas normales, puede crear algunos objetos unicos de la taumaturgia. Para hacer esto es necesario poner la varita en el espacio superior derecho. Esto permitirá crear objetos que requieran vis al sacar el vis de la varita.<BR>El vis requerido para crear el objeto se mostrara en los seis simbolos circulares que rodean la cuadricula.
+tc.research_page.ARCTABLE.1=Para crear una mesa de trabajo arcana simplemente es hacer click derecho con una varita a la mesa que has puesto en el mundo. La mesa de trabajo arcana tiene el mismo proposito que la mesa de trabajo normal, con algunas excepciones.<BR>Aparte de las recetas normales, puede crear algunos objetos unicos de la thaumaturgia. Para hacer esto es necesario poner la varita en el espacio superior derecho. Esto permitirá crear objetos que requieran vis al sacar el vis de la varita.<BR>El vis requerido para crear el objeto se mostrara en los seis simbolos circulares que rodean la cuadricula.
 #
 tc.research_name.RESTABLE=Mesa de investigación
 tc.research_text.RESTABLE=Para conseguir conocimientos
-tc.research_page.RESTABLE.1=La mesa de investigación es creada a partir de dos mesas, una al lado de la otra y haciendole click com las herramientas del escritor.<BR>La mesa de investigación es la herramienta más importante para cualquier taumaturgo. Se usa para desbloquear los secretos del universo y nuevas formas de emplear la mágia. 
+tc.research_page.RESTABLE.1=La mesa de investigación es creada a partir de dos mesas, una al lado de la otra y haciendole click com las herramientas del escritor.<BR>La mesa de investigación es la herramienta más importante para cualquier thaumaturgo. Se usa para desbloquear los secretos del universo y nuevas formas de emplear la mágia. 
 #
 tc.research_name.THAUMONOMICON=Thaumonomicon
 tc.research_text.THAUMONOMICON=Un depósito de conocimiento
-tc.research_page.THAUMONOMICON.1=Para crear el Thaumonomicon, simplemente debes usar tu varita en una biblioteca del mundo.<BR>El Thaumonomicon es un libro de referencias sobre todas las cosas taumaturgicas. El muestra todos los descubrimientos que has hecho y te da una idea genera de cuantas faltan por descubrir.<BR>Cuando exitosamente encuentres algo y uses el pergamino, automaticamente será añadido al libro. Puede buscar por todos tus descubrimientos y hacer click en ellos para que se muestre Mas información sobre ellos asi como recetas para su creación. 
+tc.research_page.THAUMONOMICON.1=Para crear el Thaumonomicon, simplemente debes usar tu varita en una biblioteca del mundo.<BR>El Thaumonomicon es un libro de referencias sobre todas las cosas thaumaturgicas. El muestra todos los descubrimientos que has hecho y te da una idea genera de cuantas faltan por descubrir.<BR>Cuando exitosamente encuentres algo y uses el pergamino, automaticamente será añadido al libro. Puede buscar por todos tus descubrimientos y hacer click en ellos para que se muestre Mas información sobre ellos asi como recetas para su creación. 
 #
 tc.research_name.CRUCIBLE=Crisol
 tc.research_text.CRUCIBLE=Burbujas y a hervir
@@ -939,26 +942,26 @@ tc.research_page.ENCHANT.2=§nVelocidad§r<BR>Este encantamiento puede ser aplic
 #
 tc.research_name.ELEMENTALAXE=Hacha del rio
 tc.research_text.ELEMENTALAXE=Rios de madera
-tc.research_page.ELEMENTALAXE.1=Combinando cristales de agua con una hacha de taumio, Tu has creado una herramienta que encarna los aspectos de movimiento y flujo.<BR>Funciona como una hacha normal sobre todos los materiales a excepción de los tablones y árboles. Cuando se usa en estos bloques, el hacha busca en los bloques cercanos el mismo tipo de bloque que estas talando y tale ese en vez del que estas mirando .<BR>En efecto tu cortaras los árboles de arriba a abajo incluso si talas desde el bloque más bajo. 
+tc.research_page.ELEMENTALAXE.1=Combinando cristales de agua con una hacha de thaumio, Tu has creado una herramienta que encarna los aspectos de movimiento y flujo.<BR>Funciona como una hacha normal sobre todos los materiales a excepción de los tablones y árboles. Cuando se usa en estos bloques, el hacha busca en los bloques cercanos el mismo tipo de bloque que estas talando y tale ese en vez del que estas mirando .<BR>En efecto tu cortaras los árboles de arriba a abajo incluso si talas desde el bloque más bajo. 
 tc.research_page.ELEMENTALAXE.2=Ademas todos los bloques que tales de esta manera automaticamente irán hacia ti para que los colectes.<BR>Si presionas y sotienes el click derecho el hacha talará más rapido, pero consumirá mas durabilidad.<BR>Si se presiona shift mientras se usa la herramienta todas las propiedades especiales se suspenderan y actuara como un hacha normal.
 #
 tc.research_name.ELEMENTALPICK=Pico del núcleo
 tc.research_text.ELEMENTALPICK=Purificadora de calor
-tc.research_page.ELEMENTALPICK.1=Infundiendo cristales de fuego a un pico de taumio, has creado un pico que brilla con el calor de la forja.<BR>Cuando minas una menas existe la posibilidad de que mines un comprimido. Los comprimidosson son mucho más fáciles de procesar y producen el doble de la cantidad normal de metal cuando se funden.<BR>También puede ser usado para encontrar cualquier material valioso cercano haciendo click derecho sobre cualquier superficie.
+tc.research_page.ELEMENTALPICK.1=Infundiendo cristales de fuego a un pico de thaumio, has creado un pico que brilla con el calor de la forja.<BR>Cuando minas una menas existe la posibilidad de que mines un comprimido. Los comprimidosson son mucho más fáciles de procesar y producen el doble de la cantidad normal de metal cuando se funden.<BR>También puede ser usado para encontrar cualquier material valioso cercano haciendo click derecho sobre cualquier superficie.
 tc.research_page.ELEMENTALPICK.2=Si se mantiene presionado el shift mientras se usa la herramienta todas las propiedades especiales se suspenderan y actuara como un pico normal.
 #
 tc.research_name.ELEMENTALSWORD=Espada de Zephyr
 tc.research_text.ELEMENTALSWORD=AVientos enojados
-tc.research_page.ELEMENTALSWORD.1=Has fusionado la furia de los cristales de aire com una espada de taumio.<BR>Cuando se utiliza para atacar a un enemigo, la hoja se barre en un amplio arco, golpeando enemigos adicionales cerca del objetivo.<BR>Mientras que el bloqueo de la espada evocará una esfera de vientos alrededor suyo, empujando enemigos y objetos sueltos lejos y desviando proyectiles cercanos.<BR>El bloqueo tambien te permite caer despacio.
+tc.research_page.ELEMENTALSWORD.1=Has fusionado la furia de los cristales de aire com una espada de thaumio.<BR>Cuando se utiliza para atacar a un enemigo, la hoja se barre en un amplio arco, golpeando enemigos adicionales cerca del objetivo.<BR>Mientras que el bloqueo de la espada evocará una esfera de vientos alrededor suyo, empujando enemigos y objetos sueltos lejos y desviando proyectiles cercanos.<BR>El bloqueo tambien te permite caer despacio.
 #
 tc.research_name.ELEMENTALSHOVEL=Pala mueve tierra
 tc.research_text.ELEMENTALSHOVEL=Cambiando la Tierra
-tc.research_page.ELEMENTALSHOVEL.1=Combinando cristales de tierra con una pala de taumio, has logrado crear un inigualable implemento para cavar.<BR>Cuando se usa para cavar tierra, arena y materiales similares la pala cavará una area de 3x3.<BR>Si haces click derecho a un lado del bloque, la pala colocará una seccion de 3x3 del mismo material mientras tengas de este material en tu inventario.<BR>La orientación depende de la cara que intentes minar o construir.
+tc.research_page.ELEMENTALSHOVEL.1=Combinando cristales de tierra con una pala de thaumio, has logrado crear un inigualable implemento para cavar.<BR>Cuando se usa para cavar tierra, arena y materiales similares la pala cavará una area de 3x3.<BR>Si haces click derecho a un lado del bloque, la pala colocará una seccion de 3x3 del mismo material mientras tengas de este material en tu inventario.<BR>La orientación depende de la cara que intentes minar o construir.
 tc.research_page.ELEMENTALSHOVEL.2=Si se mantiene presionado el shift mientras se usa la herramienta todas las propiedades especiales se suspenderan y actuara como una pala normal.
 #
 tc.research_name.ELEMENTALHOE=Azadón del crecimiento
 tc.research_text.ELEMENTALHOE=Equilibrio de la Naturaleza
-tc.research_page.ELEMENTALHOE.1=Mediante la fusión de los cristales de orden y entropía con una azada de taumio, Has cerado un implemento agricola sin precedente.<BR>Cuando de usa para labrar la tierra, se labrarán areas de 3x3.<BR>Cuando se use en cultivos o en otras plantas actuara como harina de hueso, aunque a un alto costo de durabilidad. Incluso podría ser capaz de hacer crecer las plantas que la harina de hueso normal no puede.<BR>Si se mantiene presionado el shift mientras se usa la herramienta todas las propiedades especiales se suspenderan y actuara como una azada normal.
+tc.research_page.ELEMENTALHOE.1=Mediante la fusión de los cristales de orden y entropía con una azada de thaumio, Has cerado un implemento agricola sin precedente.<BR>Cuando de usa para labrar la tierra, se labrarán areas de 3x3.<BR>Cuando se use en cultivos o en otras plantas actuara como harina de hueso, aunque a un alto costo de durabilidad. Incluso podría ser capaz de hacer crecer las plantas que la harina de hueso normal no puede.<BR>Si se mantiene presionado el shift mientras se usa la herramienta todas las propiedades especiales se suspenderan y actuara como una azada normal.
 #
 tc.research_name.ALCHEMICALDUPLICATION=Alchemical Duplication
 tc.research_text.ALCHEMICALDUPLICATION=You can never have too much of a good thing.
